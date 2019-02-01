@@ -1,0 +1,14 @@
+
+* Q: what is the main thing in the code I need to understand to build an RL agent?
+* where is the lightweight interaction system with Coq? (how does the synthesizer uses it)
+
+----
+
+* tactr.pickle
+
+* TacStPt = Tactic States Proof Tree
+  * how does this look like? visualize?
+* Tactic states Data set
+
+* Q: tactr: is it tactic tree?
+* tactst = tactoc states
