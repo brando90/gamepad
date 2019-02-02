@@ -56,4 +56,5 @@ nra.cache
 *.dmp
 mllogs/*
 
+## data folders/files
 simprw
